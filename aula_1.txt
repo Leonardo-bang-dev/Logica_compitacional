@@ -1,0 +1,48 @@
+Proposição: Um enunciado(uma frase declarativa), que pode ser verdadeira ou falsa.
+
+
+-----------------------------------------
+
+Premissa: Proposições que visam montar um raciocinio, proposição do silogismo.
+
+-----------------------------------------
+Argumentos: Conjunto de enunciados que se relacionam entre si.
+
+-----------------------------------------
+Silogismo: Um raciocinio dedutivo, com base em premissas, onde a partir delas pode-se deduzir uma conclusão.
+
+-----------------------------------------
+Falácia: Argumentos logicamente errados.
+
+-----------------------------------------
+Inferência: Processo que possibilita chegar a conclusões ultilizando premissas , constituindo a argumentação lógica perfeita, Possuindo 2 tipos: indutiva e dedutiva e caso seja falsa é chamada tambem de falácia.
+
+-----------------------------------------
+Logica formal: Lida com as relações entre premissas e suas conclusões subsequentes sejam elas verdadeiras ou falsas
+
+Logica indutica: se parte de experiências com verdades e fatos particulares para se obter uma conclusão. Uma logica probabilistica.
+
+Logica dedutiva: Através de premissas gerais concluimos verdades específicas e particulares. Logica Clássica. 
+
+-----------------------------------------
+Logica classica
+
+Principio da identidad: Proposição verdadeira é  verdadeira, falsa é falsa.
+
+Principio da não-contradição: um proposição não pode ser verdadeira e falsa ao mesmo tempo.
+
+Principio do terceiro excluido: toda proposição é verdadeira ou falsa.
+
+-----------------------------------------
+Algebra booleana
+
++ -> Ou 
+x -> E
+~ -> NEGAÇÃO
+^ -> CONJUNÇÃO
+v -> DISCUNJUNÇÃO
+-> -> CONDICIONAL
+<-> -> BICONDICIONAL
+
+
+
